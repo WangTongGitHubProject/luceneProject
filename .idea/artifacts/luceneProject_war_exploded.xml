@@ -6,6 +6,13 @@
         <element id="directory" name="classes">
           <element id="module-output" name="luceneProject" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:5.3.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queryparser:5.3.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queries:5.3.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-sandbox:5.3.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-common:5.3.1" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/luceneProject/META-INF/MANIFEST.MF" />
