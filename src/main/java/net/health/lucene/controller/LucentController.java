@@ -6,5 +6,4 @@ package net.health.lucene.controller;
 public class LucentController {
 
 
-
 }
